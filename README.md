@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <h3>Encadré par : Pr. Mme Benaala Hicham</h3>
   <h3>Réalisé par : MOHAMMED ABIDOU</h3>
 </div>
 
@@ -78,21 +77,11 @@ npm test
 ## 🤝 Contribution
 Les contributions sont les bienvenues ! N'hésitez pas à soumettre une pull request ou à ouvrir une issue pour toute amélioration ou correction de bugs.
 
-## 📄 Licence
-Ce projet est sous licence MIT.
 
-## 📊 Captures d'écran
-
-<div align="center">
-  <p><i>Interface de connexion</i></p>
-  <!-- Placeholder pour une capture d'écran -->
-  <p><i>Salon de discussion</i></p>
-  <!-- Placeholder pour une capture d'écran -->
-</div>
 
 ## 📞 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à contacter :
 
-- 👨‍🎓 **MOHAMMED ABIDOU** - *Développeur principal* - [Email](mailto:votre-email@example.com)
-- 👨‍🏫 **Pr. Mme Benaala Hicham** - *Encadrant du projet*
+- 👨‍🎓 **MOHAMMED ABIDOU** - *Développeur principal* - [Email](mailto:abidou.mohammed03@gmail.com)
+
